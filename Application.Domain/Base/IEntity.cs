@@ -9,5 +9,6 @@ namespace Application.Domain.Base
     public interface IEntity
     {
         int Id { get; set; }
+
     }
 }
