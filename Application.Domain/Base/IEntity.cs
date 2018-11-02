@@ -10,5 +10,6 @@ namespace Application.Domain.Base
     {
         int Id { get; set; }
 
+        int MyProperty { get; set; }
     }
 }
